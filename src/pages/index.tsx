@@ -1,31 +1,31 @@
-import Email from '@/components/Email'
-import SocialIcons from '@/components/SocialIcons'
-import About from '@/sections/About'
-import Contact from '@/sections/Contact'
-import Experience from '@/sections/Experience'
+import Email from "@/components/Email";
+import SocialIcons from "@/components/SocialIcons";
+import About from "@/sections/About";
+import Contact from "@/sections/Contact";
+import Experience from "@/sections/Experience";
 
-import Hero from '@/sections/Hero'
-import Navbar from '@/sections/Navbar'
-import Projects from '@/sections/Projects'
-import React from 'react'
-
+import Hero from "@/sections/Hero";
+import Navbar from "@/sections/Navbar";
+import Projects from "@/sections/Projects";
+import React from "react";
+import Footer from "../sections/Footer";
 
 function Index() {
   return (
-    <div className='app'>
+    <div className="app">
       <Navbar />
       <SocialIcons />
       <Email />
       <main>
         <Hero />
-        <About/>
-        <Experience/>
-        <Projects/>
-        <Contact/>
+        <About />
+        <Experience />
+        <Projects />
+        <Contact />
       </main>
-      
+      <Footer />
     </div>
-  )
+  );
 }
 
-export default Index
+export default Index;
