@@ -1,0 +1,13 @@
+@import 'variables';
+@import "globals";
+@import "main";
+
+@import "sections/hero.scss";
+@import "sections/index";
+
+
+@import "components/button";
+@import "components/logo";
+@import "components/socialIcons";
+@import "components/email";
+@import "components/index";
