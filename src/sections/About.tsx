@@ -55,6 +55,10 @@ function About() {
                         <li className='about-grid-info-list-item'>JavaScript</li>
                         <li className='about-grid-info-list-item'>Php</li>
                         <li className='about-grid-info-list-item'>Laravel</li>
+
+                        <li className='about-grid-info-list-item'>WordPress</li>
+                        <li className='about-grid-info-list-item'>Git</li>
+                        <li className='about-grid-info-list-item'>Github</li>
                     </ul>
                 </div>
                 <div className="about-grid-photo">
