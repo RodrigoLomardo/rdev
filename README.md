@@ -45,7 +45,7 @@ npm run start
 
 - **Página Inicial**: Visão geral e projetos destacados.
 - **Sobre Mim**: Informações sobre minhas habilidades e experiências.
-- **Experiência**: Informações sobre minhas habilidades e experiências.
+- **Experiência**: Informações sobre minhas experiências profissionais.
 - **Projetos**: Detalhes sobre todos os meus projetos.
 - **Contato**: Formulário de contato.
 
